@@ -44,7 +44,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh_Ravaji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-ravaji-70564622b/)  &nbsp;
 <a href="https://www.instagram.com/mahesh_ravaji/"><img src="https://img.shields.io/badge/-mahesh_ravaji-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://x.com/sapatevai"><img src="https://img.shields.io/badge/-Sapate_Vaibhav-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
+<a href="https://x.com/MaheshRavaji"><img src="https://img.shields.io/badge/-Mahesh_Ravaji-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
