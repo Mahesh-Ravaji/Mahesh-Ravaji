@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **I think I am Dumb**
 
-- 😇 Hobby ** Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc... "
+- 😇 Hobby ** Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc... **
 
 - 🧑🏻‍💻 Currently I am learning **Azure**
 
