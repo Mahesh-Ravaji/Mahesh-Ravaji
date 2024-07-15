@@ -33,9 +33,9 @@
 
 - 📫 How to reach me **maheshravaji3@gmail.com**
 
-- ⚡ Fun fact **I think I am Dumb**
+- ⚡ Fun fact **I am a bit talkative**
 
-- 😇 Hobby ** Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc... **
+- 😇 Hobby **Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc...**
 
 - 🧑🏻‍💻 Currently I am learning **Azure**
 
