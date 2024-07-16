@@ -13,8 +13,8 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Mahesh+Ravaji+;I+am+a+passionate+Software+Developer;I+like+to+build+products+to+solve++real+world+problems+;I'm+a+problem-solving+software+developer+;I+build+software+for+real-world+needs+;Solving+problems+with+code+is+my+passion+;I+create+software+to+address+practical+issues+;My+focus+is+on+software+that+tackles+real+problems+;I'm+a+software+developer+who+thrives+on+solutions+;Crafting+products+to+solve+problems+is+my+thing+;I+develop+software+for+real-life+challenges+;My+code+is+dedicated+to+practical+solutions+;Software+development+is+my+path+to+real-world+impact+;I+love+coding+to+solve+everyday+problems+;My+software+work+is+all+about+real-world+solutions+;I'm+a+developer+dedicated+to+real+problems+;My+software+solutions+aim+to+make+life+better+;I+code+with+a+purpose+–+solving+real+issues
-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Mahesh+Ravaji+;I+am+a+passionate+Software+Developer+and+DevOps+Enthusiast;I+build+products+to+solve+real+world+problems+;I+am+focused+on+automation+and+efficiency;Solving+problems+with+code+is+my+passion+;I+create+CI/CD+pipelines+for+seamless+deployments;My+focus+is+on+integrating+development+and+operations+;I+thrive+on+building+robust+infrastructure;Crafting+solutions+to+optimize+software+delivery+is+my+forte+;I+develop+software+and+manage+infrastructure;My+work+is+dedicated+to+enhancing+software+reliability+;Software+development+and+DevOps+are+my+path+to+real-world+impact;I+love+coding+and+automating+processes+;My+focus+is+on+real-world+solutions+through+DevOps;I+am+dedicated+to+continuous+improvement+and+delivery;Building+scalable+and+reliable+systems+is+my+goal;I+thrive+on+integrating+and+optimizing+software+processes+)]
+
 
 ---
 <img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif"/>
