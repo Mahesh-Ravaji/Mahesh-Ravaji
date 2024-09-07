@@ -39,7 +39,7 @@
 
 - 😇 Hobby **Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc...**
 
-- 🧑🏻‍💻 Currently I am learning **Azure**
+- 🧑🏻‍💻 Currently I am preparing for  **CKA Exam**
 
 ---
 <h3 align="left">Connect with me:</h3>
