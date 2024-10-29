@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **maheshravaji3@gmail.com**
 
-- ⚡ Fun fact **Always hungry to learn new tech stacks!💻**
+- ⚡ Fun fact **"Always hungry to learn new tech stacks"!💻**
 
 - 😇 Hobby **Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc...**
 
