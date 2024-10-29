@@ -7,7 +7,7 @@
 
 
 <img src="image.png" align="right" width=400 />
-<p align="left" > Question Everything , Learn Something , Answer Nothing  </p>
+<p align="left" > In a world of algorithms, creativity is the ultimate hack </p>
   
 
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **maheshravaji3@gmail.com**
 
-- ⚡ Fun fact **I am a bit talkative**
+- ⚡ Fun fact **Always hungry to learn new tech stacks!💻**
 
 - 😇 Hobby **Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc...**
 
