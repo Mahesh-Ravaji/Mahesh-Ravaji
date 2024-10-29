@@ -7,7 +7,7 @@
 
 
 <img src="image.png" align="right" width=400 />
-<p align="left" > In a world of algorithms, creativity is the ultimate hack </p>
+<p align="left" > <h3></h3>In a world of algorithms, creativity is the ultimate hack</p></h3> </p>
   
 
 
