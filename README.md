@@ -7,7 +7,7 @@
 
 
 <img src="image.png" align="right" width=400 />
-<p align="left" > <h3></h3>📋Har chize Job lene ke liye nahi karte Kuch Chize Engineer🙂📝 Banne ke liye karte 👨🛠</p></h3> </p>
+<p align="left" > <h3></h3>📋Har chize Job lene ke liye nahi karte Kuch Chize ENGINEER🙂📝 Banne ke liye karte 👨🛠</p></h3> </p>
   
 
 
