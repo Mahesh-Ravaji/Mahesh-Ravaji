@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="image.png" width="250" alt="Mahesh Ravaji" />
+  <img src="steve-image.png" width="250" alt="Mahesh Ravaji" />
 </p>
 
 <p align="center"><b>📋 Har chize job ke liye nahi hoti, kuch chize ENGINEER🛠 banne ke liye bhi hoti hai.</b></p>
@@ -20,15 +20,15 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 Final Year B.E. Student – Information Technology  
-- 🔭 I’m currently working on AI-based projects & exam automation system  
-- ⚙️ DevOps Stack: GitLab · Docker · Kubernetes · Terraform · Shell Scripting  
-- 🌐 Web Stack: HTML · CSS · JS · Bootstrap  
-- ☁️ Cloud: Azure · AWS (Learning Mode On 🚀)  
-- 📖 Preparing for CKA Exam  
-- 💬 Ask me about anything related to DevOps, Infra, Cloud, Python, or Open Source  
-- 📫 Reach me at: **maheshravaji3@gmail.com**  
-- 🎤 I love: Tech Talks · Hackathons · Tech Meetups · Singing 🎶 · Social Impact 🌱  
+- 🎓 Final Year B.E. Student – Information Technology
+- 🔭 I’m currently working on AI-based projects & exam automation system
+- ⚙️ DevOps Stack: GitLab · Docker · Kubernetes · Terraform · Shell Scripting
+- 🌐 Web Stack: HTML · CSS · JS · Bootstrap
+- ☁️ Cloud: Azure · AWS (Learning Mode On 🚀)
+- 📖 Preparing for CKA Exam
+- 💬 Ask me about anything related to DevOps, Infra, Cloud, Python, or Open Source
+- 📫 Reach me at: **maheshravaji3@gmail.com**
+- 🎤 I love: Tech Talks · Hackathons · Tech Meetups · Singing 🎶 · Social Impact 🌱
 - 🧠 Motto: **"Learn | Build | Share | Repeat"**
 
 ---
@@ -92,6 +92,6 @@
 ---
 ### 🌟 Explore My Work
 
-> If you find something useful, don’t forget to ⭐️ the repo.  
+> If you find something useful, don’t forget to ⭐️ the repo.
 > Let's connect, collaborate, and grow together 🚀
 
