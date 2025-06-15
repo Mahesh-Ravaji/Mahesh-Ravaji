@@ -1,169 +1,97 @@
 <h1 align="center">
-  Mahesh Ravaji.
+  <strong>Mahesh Ravaji</strong>
 </h1>
 
-
-
-
-
-<img src="image.png" align="right" width=400 />
-<p align="left" > <h3></h3>📋Har chize Job lene ke liye nahi karte Kuch chize ENGINEER🙂📝 Banne ke liye karte 👨🛠</p></h3> </p>
-  
-
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Mahesh+Ravaji+;I+am+a+passionate+Software+Developer+and+DevOps+Enthusiast;I+build+products+to+solve+real+world+problems+;I+am+focused+on+automation+and+efficiency;Solving+problems+with+code+is+my+passion+;I+create+CI/CD+pipelines+for+seamless+deployments;My+focus+is+on+integrating+development+and+operations+;I+thrive+on+building+robust+infrastructure;Crafting+solutions+to+optimize+software+delivery+is+my+forte+;I+develop+software+and+manage+infrastructure;My+work+is+dedicated+to+enhancing+software+reliability+;Software+development+and+DevOps+are+my+path+to+real-world+impact;I+love+coding+and+automating+processes+;My+focus+is+on+real-world+solutions+through+DevOps;I+am+dedicated+to+continuous+improvement+and+delivery;Building+scalable+and+reliable+systems+is+my+goal;I+thrive+on+integrating+and+optimizing+software+processes+)]
-
-
----
-<img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif"/>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapatevaibhav&label=Profile%20views&color=0e75b6&style=flat&" alt="sapatevaibhav" /> </p>-->
-<p align="left">
-    
-  
-[![](https://visitcount.itsvg.in/api?id=Mahesh-Ravaji&icon=0&color=0)](https://visitcount.itsvg.in)
-  <!-- <img src="https://profile-counter.glitch.me/sapatevaibhav/count.svg" /> -->
-</p>    
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> -->
-
-- 🌱 I’m currently persuing **B.E in Information Technology**
-
-- 💬 Ask me about **Html, CSS, Javascript , Python, Java ,Shell Scripting, Gitlab , CI/CD , Docker , K8S, Terraform (IAC) [DevOps]**
-
-- 📫 How to reach me **maheshravaji3@gmail.com**
-
-- ⚡ Fun fact **"Always hungry to learn new tech stacks"!💻**
-
-- 😇 Hobby **Exploring New technology and trends , Attend diff Tech Events ,Singing, Do Social Activities etc...**
-
-- 🧑🏻‍💻 Currently I am preparing for  **CKA Exam**
-
----
-<h3 align="left">Connect with me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mahesh_Ravaji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-ravaji-70564622b/)  &nbsp;
-<a href="https://www.instagram.com/mahesh_ravaji/"><img src="https://img.shields.io/badge/-mahesh_ravaji-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://x.com/MaheshRavaji"><img src="https://img.shields.io/badge/-Mahesh_Ravaji-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img  alt="Visual Studio Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img alt="Kubernetes" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-</a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-  <img alt="GitLab" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-</a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img alt="Terraform" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img alt="Azure" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-</a>
-<a href="https://www.aws.com/" target="_blank" rel="noreferrer">
-  <img alt="Azure" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</a>
-
+<p align="center">
+  <em>🚀 Software Engineer | DevOps Enthusiast | Cloud Explorer</em>
 </p>
 
+<p align="center">
+  <img src="image.png" width="250" alt="Mahesh Ravaji" />
+</p>
+
+<p align="center"><b>📋 Har chize job ke liye nahi hoti, kuch chize ENGINEER🛠 banne ke liye bhi hoti hai.</b></p>
 
 ---
 
-### My Holopin badges
-
-[![An image of @maheshravaji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshravaji)](https://holopin.io/@maheshravaji)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=800&height=100&lines=Hey,+I'm+Mahesh+Ravaji!;Final+Year+IT+Engineer+%7C+DevOps+Enthusiast+%7C+AI+Builder;I+build+solutions+with+code+%2B+automation;Solving+real-world+problems+is+my+passion!;CI%2FCD+%7C+Cloud+%7C+Infra+as+Code+%7C+AI+Projects)](https://git.io/typing-svg)
 
 ---
 
-### My GitHub trophies
+### 👨🏻‍💻 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahesh-Ravaji&theme=onedark)](https://github.com/Mahesh-Ravaji)
-
----
-
-### Activity graph
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Ravaji&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/Mahesh-Ravaji)
-
-
-</div>
-<!--
-### 💻 My Contribution Graph:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapatevaibhav&theme=vue)
-   ![](https://activity-graph.herokuapp.com/graph?username=sapatevaibhav&theme=dracula&hide_border=true&area=true)
-  <br/>
--->
-
----
-<!-- 
-<h3 align="center">Activity</h3>
-<img align="right" width="390" alt="metrics" src="./metrics.svg">
-<img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
-<img align="center" width="390" alt="achievements.svg" src="./achievements.svg"> -->
-
+- 🎓 Final Year B.E. Student – Information Technology  
+- 🔭 I’m currently working on AI-based projects & exam automation system  
+- ⚙️ DevOps Stack: GitLab · Docker · Kubernetes · Terraform · Shell Scripting  
+- 🌐 Web Stack: HTML · CSS · JS · Bootstrap  
+- ☁️ Cloud: Azure · AWS (Learning Mode On 🚀)  
+- 📖 Preparing for CKA Exam  
+- 💬 Ask me about anything related to DevOps, Infra, Cloud, Python, or Open Source  
+- 📫 Reach me at: **maheshravaji3@gmail.com**  
+- 🎤 I love: Tech Talks · Hackathons · Tech Meetups · Singing 🎶 · Social Impact 🌱  
+- 🧠 Motto: **"Learn | Build | Share | Repeat"**
 
 ---
 
+### 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/Mahesh_Ravaji-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-ravaji-70564622b/)
+[![Instagram](https://img.shields.io/badge/@mahesh_ravaji-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mahesh_ravaji/)
+[![X/Twitter](https://img.shields.io/badge/Mahesh_Ravaji-black?style=flat-square&logo=X&logoColor=white)](https://x.com/MaheshRavaji)
 
-
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-Ravaji&theme=dracula" alt="Mahesh-Ravaji" />
-
-  
 ---
-  
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Mahesh-Ravaji&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>
+</p>
+
+---
+
+### 🏅 Badges & Achievements
+
+[![Holopin Badges](https://holopin.me/maheshravaji)](https://holopin.io/@maheshravaji)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Mahesh-Ravaji&theme=onedark)](https://github.com/Mahesh-Ravaji)
+
+---
+
+### 📈 My GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-Ravaji&theme=dracula)
 <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Ravaji&show_icons=true&count_private=true&theme=dracula)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mahesh-Ravaji&layout=compact&theme=dracula)
+<br>
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Mahesh-Ravaji&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Ravaji&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/Mahesh-Ravaji)
 
 ---
 
-![](https://github-contributor-stats.vercel.app/api?username=Mahesh-Ravaji&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Snake Animation](github-user-contribution.svg)
 
 ---
+### 🌟 Explore My Work
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahesh-Ravaji&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Mahesh-Ravaji" />
+> If you find something useful, don’t forget to ⭐️ the repo.  
+> Let's connect, collaborate, and grow together 🚀
 
----
-<!-- 
-<a href="https://wakatime.com/@Mahesh-Ravaji"> <img src="https://wakatime.com/share/@Mahesh-Ravaji/b47ff41e-c77d-4a6b-a60f-8a249e7a1be3.png" alt="Project Image" height="400px"> </a> -->
-
-
-
-![snake gif](github-user-contribution.svg)
-
-<!--
-![snake gif](https://github.com/sapatevaibhav/sapatevaibhav/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
-
-
-
-### Show some love ❤️ by starring some of the repositories!
