@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>🚀 Software Engineer | DevOps Enthusiast | Cloud Explorer</em>
+  <em>🚀 Software Engineer | DevOps Enthusiast | Cloud Explorer | Freelancer </em>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - 📖 Preparing for CKA Exam
 - 💬 Ask me about anything related to DevOps, Infra, Cloud, Python, or Open Source
 - 📫 Reach me at: **maheshravaji3@gmail.com**
-- 🎤 I love: Tech Talks · Hackathons · Tech Meetups · Singing 🎶 · Social Impact 🌱
+- 🎤 I love: Tech Talks · Hackathons · Tech Meetups · Singing 🎶 · Social Impact 🌱 
 - 🧠 Motto: **"Learn | Build | Share | Repeat"**
 
 ---
